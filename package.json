@@ -21,9 +21,9 @@
     "axios": "^0.16.2",
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
-    "mongoose": "^4.11.11",
-    "morgan": "^1.8.2",
-    "react": "^15.6.1",
+    "mongoose": "^4.13.12",
+    "morgan": "^1.9.0",
+    "react": "^15.6.2",
     "react-dom": "^15.6.1",
     "react-router": "^4.2.0"
   },
